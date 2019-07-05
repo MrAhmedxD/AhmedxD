@@ -1,0 +1,5 @@
+owner=503302843227439114
+?token=NTk2NTg4OTg1NzU3ODU5ODQy.XR9c0g.yhNdHezxRTN5HAD88nuk0FEIzlg
+prefix= $
+game= !thelp
+token=NTk2NTg4OTg1NzU3ODU5ODQy.XR9c0g.yhNdHezxRTN5HAD88nuk0FEIzlg
